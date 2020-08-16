@@ -1,4 +1,3 @@
-# rocket_chat_sample
 # Sample implementation of rocket chat via REAL TIME API  Socket programming.
 
 SEQUENCE
